@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StringSimilarity": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
